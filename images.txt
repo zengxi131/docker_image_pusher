@@ -1,2 +1,2 @@
 #支持私库
-mysql:latest
+apache/superset:latest
