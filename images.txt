@@ -1,2 +1,2 @@
 #支持私库
-apache/superset:latest
+wantcat/trendradar:latest
